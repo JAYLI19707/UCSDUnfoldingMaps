@@ -1,0 +1,9 @@
+/build/
+*.class
+*.log
+peer_review_submission.md
+coursera_form_answers.md
+app_check.png
+screen_test*.png
+.DS_Store
+Thumbs.db
